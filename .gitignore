@@ -1,0 +1,19 @@
+# Environnements virtuels / caches
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Bases locales
+gacha.db
+*.sqlite
+*.sqlite3
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets locaux
+.env
